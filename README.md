@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @draziraphale
-- 👀 I’m interested in data analytics, R, tidyverse, solving problems in automotive imaging data analysis, visualisation, markup generation
+- 👀 I’m interested in data analytics, R, tidyverse, solving problems in automotive imaging data analysis, visualisation, markup generation, NLP
 - 🌱 I’m currently expanding my R knowledge with and am being nudged in the python direction too
 - 💞️ I’m looking to collaborate on ... (not sure yet)
 - 📫 How to reach me (I'll update this when I figure out the best comms setup for this context)
